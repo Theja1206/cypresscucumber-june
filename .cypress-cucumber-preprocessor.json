@@ -1,0 +1,10 @@
+{
+    "stepDefinitions": [
+        "cypress/e2e/features/**/*.{js,ts}"
+       
+    ],
+    "html":{
+        "enabled":true,
+        "output":"reports/report.html"
+    }
+}
